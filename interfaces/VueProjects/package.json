@@ -1,0 +1,22 @@
+{
+  "name": "vueprojects",
+  "version": "1.0.0",
+  "description": "This is the draft User Interface for a non-fungible token based smart contract system for biological patents. ",
+  "main": "I have no idea",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\"https://github.com/nikitakent/elionGenetics_UI\""
+  },
+  "keywords": [
+    "NFT",
+    "Smart",
+    "Contract",
+    "Intellectual",
+    "Property"
+  ],
+  "author": "Nikita Olivia Kent",
+  "license": "MIT "
+}
